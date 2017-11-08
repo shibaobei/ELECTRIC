@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="ckfinder">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/web/WEB-INF/lib/ckfinder" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/web/WEB-INF/lib/ckfinder" recursive="false" />
+  </library>
+</component>

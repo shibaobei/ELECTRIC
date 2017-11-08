@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="ckediter">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/web/WEB-INF/lib/ckediter" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/web/WEB-INF/lib/ckediter" recursive="false" />
+  </library>
+</component>

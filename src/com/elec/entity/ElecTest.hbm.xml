@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC 
+    "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+    "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+	<class name="com.elec.entity.ElecTest" table="elec_test">
+		<id name="testID" type="string" column="testID">
+			<generator class="uuid"></generator>
+		</id>
+		<property name="testName" type="string" column="testName"></property>
+		<property name="testDate" type="date" column="testDate"></property>
+		<property name="testRemark" type="string" column="testRemark"></property>
+	</class>
+</hibernate-mapping>
